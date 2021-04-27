@@ -1,0 +1,4 @@
+- git merge dev/147-phase-2-core(merge code from dev/147-phase-2-core )
+- git pull origin beta-stage(pull code from beta stage)
+- git push origin beta-stage(push code to betag stage)
+- git checkout beta-stage (to switch the branch from one to another)
